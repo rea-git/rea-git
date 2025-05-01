@@ -27,7 +27,7 @@ Check out all my projects here → [My Portfolio](https://sites.google.com/view/
 ---
 ### 📈 GitHub Stats
 
-![Reshni's GitHub stats](https://github-readme-stats.vercel.app/api?username=rea-git&show_icons=true&theme=gruvbox)
+<!--![Reshni's GitHub stats](https://github-readme-stats.vercel.app/api?username=rea-git&show_icons=true&theme=gruvbox)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rea-git&layout=compact&theme=gruvbox)
 
 ---
