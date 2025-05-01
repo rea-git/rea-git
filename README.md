@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ### 📈 GitHub Stats
 ![Reshni's GitHub stats](https://github-readme-stats.vercel.app/api?username=rea-git&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reshniu&layout=compact&theme=tokyonight)
