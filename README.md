@@ -27,8 +27,8 @@
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8E44AD?style=flat)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0A66C2?style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 ---
 
