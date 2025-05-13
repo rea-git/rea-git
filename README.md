@@ -34,7 +34,7 @@
 
 ### 📂 More Projects
 
-Check out all my projects here → [My Portfolio](https://sites.google.com/view/reas-portfolio/my-projects)
+Check out all my projects here → [My Portfolio](https://sites.google.com/view/reas-portflio/home)
 
 ---
 ### 📈 GitHub Stats
