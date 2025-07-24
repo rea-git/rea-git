@@ -16,12 +16,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<!--![Reshni's GitHub stats](https://github-readme-stats.vercel.app/api?username=rea-git&show_icons=true&theme=gruvbox)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rea-git&layout=compact&theme=gruvbox)
-
----
 ### 📫 Connect with me
 
 📧 Email: reshniu2@gmail.com  
