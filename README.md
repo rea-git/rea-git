@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Reshni U
 ---
 
-🎓 Pre-final Year B.Tech Student – Artificial Intelligence & Data Science 
+🎓 Full-Time Final Year B.Tech Student – Artificial Intelligence & Data Science 
 
-📚 Pursuing BS Degree in Data Science from IIT Madras  
+📚 Pursuing online BS Degree in Data Science from IIT Madras  
 
 ---
 
