@@ -70,5 +70,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rea-git&show_icons=true&locale=en&layout=compact" alt="rea-git" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rea-git&" alt="rea-git" /></p>
