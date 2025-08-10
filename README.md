@@ -20,7 +20,7 @@
 <p align="left">
   <!-- Flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="background-color:white; padding:5px; border-radius:6px;"/>
   </a>
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -40,7 +40,7 @@
   </a>
   <!-- Jinja2 -->
   <a href="https://jinja.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://jinja.palletsprojects.com/en/stable/_images/jinja-name.svg" alt="jinja2" width="40" height="40"/>
+    <img src="https://jinja.palletsprojects.com/en/stable/_images/jinja-name.svg" alt="jinja2" width="40" height="40" style="background-color:white; padding:5px; border-radius:6px;"/>
   </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -56,7 +56,7 @@
   </a>
   <!-- Selenium -->
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" width="40" height="40" style="background-color:white; padding:5px; border-radius:6px;"/>
 </a>
   <!-- SQLite -->
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
@@ -64,7 +64,7 @@
   </a>
   <!-- Unity -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="background-color:white; padding:5px; border-radius:6px;"/>
   </a>
 </p>
 
