@@ -40,7 +40,7 @@
   </a>
   <!-- Jinja2 -->
   <a href="https://jinja.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/jinja-1.svg" alt="jinja2" width="40" height="40"/>
+    <img src="https://jinja.palletsprojects.com/en/stable/_images/jinja-name.svg" alt="jinja2" width="40" height="40"/>
   </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
