@@ -56,7 +56,7 @@
   </a>
   <!-- Selenium -->
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Selenium_Logo.png" alt="selenium" width="40" height="40"/>
   </a>
   <!-- SQLite -->
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
