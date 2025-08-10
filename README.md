@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Graphical Calculator](https://github.com/rea-git/Graphical-Calculator)
 
-- 🌱 I’m currently learning **Flask, machine learning, pygame**
+- 🌱 I’m currently learning **Flask, machine learning**
 
 - 📫 How to reach me **reshniu2@gmail.com**
 
