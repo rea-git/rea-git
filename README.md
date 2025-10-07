@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Reshni</h1>
 <h3 align="center">Data Science Student</h3>
 
-- 🔭 I’m currently working on [Graphical Calculator](https://github.com/rea-git/Graphical-Calculator)
+- 🔭 I’m currently working on [Automated Data Analysis](https://github.com/rea-git/auto-data-analyze-report)
 
-- 🌱 I’m currently learning **Flask, machine learning**
+- 🌱 I’m currently learning **Django, machine learning**
 
 - 📫 How to reach me **reshniu2@gmail.com**
 
